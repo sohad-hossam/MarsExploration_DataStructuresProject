@@ -1,0 +1,4 @@
+CD  ID  FD  WD  ED  
+Missions: 0[P: 0,E: 0]
+Rovers: 0[P: 0,E: 0]
+AVG wait = -nan(ind), AVG exc = -nan(ind)

@@ -1,0 +1,8 @@
+CD  ID  FD  WD  ED  
+9   1   1   0   8   
+35   3   24   0   11   
+44   2   1   35   8   
+59   4   5   40   14   
+Missions: 4[P: 2,E: 2]
+Rovers: 1[P: 1,E: 0]
+AVG wait = 18.75, AVG exc = 10.25

@@ -1,0 +1,45 @@
+﻿  Project DS 2021 final.cpp
+C:\Users\sohad\Documents\University\Sophomore spring 2021\CMPN102 Data Structure\DS project spring 2021\DS FINAL FORM\Project DS 2021 final\FormulationEvent.h(55,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sohad\Documents\University\Sophomore spring 2021\CMPN102 Data Structure\DS project spring 2021\DS FINAL FORM\Project DS 2021 final\FormulationEvent.h(50): message : while compiling class template member function 'void FormulationEvent<T>::Execute(void)'
+          with
+          [
+              T=int
+          ]
+C:\Users\sohad\Documents\University\Sophomore spring 2021\CMPN102 Data Structure\DS project spring 2021\DS FINAL FORM\Project DS 2021 final\MarsStation.h(121): message : see reference to class template instantiation 'FormulationEvent<T>' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\sohad\Documents\University\Sophomore spring 2021\CMPN102 Data Structure\DS project spring 2021\DS FINAL FORM\Project DS 2021 final\MarsStation.h(80): message : while compiling class template member function 'void MarsStation<int>::load(void)'
+C:\Users\sohad\Documents\University\Sophomore spring 2021\CMPN102 Data Structure\DS project spring 2021\DS FINAL FORM\Project DS 2021 final\Project DS 2021 final.cpp(20): message : see reference to function template instantiation 'void MarsStation<int>::load(void)' being compiled
+C:\Users\sohad\Documents\University\Sophomore spring 2021\CMPN102 Data Structure\DS project spring 2021\DS FINAL FORM\Project DS 2021 final\Project DS 2021 final.cpp(19): message : see reference to class template instantiation 'MarsStation<int>' being compiled
+C:\Users\sohad\Documents\University\Sophomore spring 2021\CMPN102 Data Structure\DS project spring 2021\DS FINAL FORM\Project DS 2021 final\Missions.h(188,39): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\sohad\Documents\University\Sophomore spring 2021\CMPN102 Data Structure\DS project spring 2021\DS FINAL FORM\Project DS 2021 final\Missions.h(187): message : while compiling class template member function 'float Missions<T>::getPriorityeq(void)'
+          with
+          [
+              T=int
+          ]
+C:\Users\sohad\Documents\University\Sophomore spring 2021\CMPN102 Data Structure\DS project spring 2021\DS FINAL FORM\Project DS 2021 final\FormulationEvent.h(55): message : see reference to function template instantiation 'float Missions<T>::getPriorityeq(void)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\sohad\Documents\University\Sophomore spring 2021\CMPN102 Data Structure\DS project spring 2021\DS FINAL FORM\Project DS 2021 final\Missions.h(56): message : while compiling class template member function 'Missions<T>::Missions(void)'
+          with
+          [
+              T=int
+          ]
+C:\Users\sohad\Documents\University\Sophomore spring 2021\CMPN102 Data Structure\DS project spring 2021\DS FINAL FORM\Project DS 2021 final\MarsStation.h(249): message : see reference to function template instantiation 'Missions<T>::Missions(void)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\sohad\Documents\University\Sophomore spring 2021\CMPN102 Data Structure\DS project spring 2021\DS FINAL FORM\Project DS 2021 final\MarsStation.h(249): message : see reference to class template instantiation 'Missions<T>' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\sohad\Documents\University\Sophomore spring 2021\CMPN102 Data Structure\DS project spring 2021\DS FINAL FORM\Project DS 2021 final\MarsStation.h(160): message : while compiling class template member function 'void MarsStation<int>::assignment(void)'
+C:\Users\sohad\Documents\University\Sophomore spring 2021\CMPN102 Data Structure\DS project spring 2021\DS FINAL FORM\Project DS 2021 final\Project DS 2021 final.cpp(24): message : see reference to function template instantiation 'void MarsStation<int>::assignment(void)' being compiled
+C:\Users\sohad\Documents\University\Sophomore spring 2021\CMPN102 Data Structure\DS project spring 2021\DS FINAL FORM\Project DS 2021 final\Rovers.h(220): warning C4715: 'Rovers<int>::Ismaintened': not all control paths return a value
+  Project DS 2021 final.vcxproj -> C:\Users\sohad\Documents\University\Sophomore spring 2021\CMPN102 Data Structure\DS project spring 2021\DS FINAL FORM\x64\Debug\Project DS 2021 final.exe
